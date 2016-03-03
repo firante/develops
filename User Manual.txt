@@ -1,0 +1,15 @@
+  Web application for manages organizational structure for parent and child companies.
+
+  For add new company you need select the company from list of companies that will be parent for your new company, for this you need to select
+appropriate radio button and press 'add' button. After this you can see fields for input you new company data: NAME(Name) and ESTIMATED EARNINGS(CEE).
+Fields NAME(name) and ESTIMATED EARNINGS(CEE) necessarily must be filled, else data can't be recorded and will not be available
+after you next time refreshing list of companies. Field ESTIMATED EARNINGS(CEE) necessarily must be numerically.
+After you write data into fields, you need press 'Enter' key, keep focus into field that you filled. Third field (CEE+Child CEE)
+no need to be filled, it will be filled automatically.
+
+  If you need company to be removed from list of companies, you need select appropriate radio button and press 'delete' button.
+All companies, that is children to removed company, will be automatically assigned to company, that was parent to this removed company.
+Root company can't be removed.
+
+  If you wish to edit company data,you need to press 'edit' button. After that, you can modify the data you need.
+After finishing modify data, press 'Enter' key keep focus into edited field.
