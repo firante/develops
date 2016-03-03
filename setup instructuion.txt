@@ -1,0 +1,3 @@
+Steeps:
+  1. Deploy application to Denwer 3 server;
+  2. Create database by "database script.sql" instructions;
